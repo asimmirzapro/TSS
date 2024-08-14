@@ -35,14 +35,14 @@ CREATE TABLE IF NOT EXISTS ticket (
 );
 
 insert into credentials (userId, password, status) values ('amirza', 'am123', 'active');
-insert into credentials (userId, password, status) values ('malsomali', 'ma123', 'active');
-insert into credentials (userId, password, status) values ('nalghofaili', 'na123', 'active');
-insert into credentials (userId, password, status) values ('aalhammad', 'aa123', 'active');
+insert into credentials (userId, password, status) values ('kkosner', 'kk123', 'active');
+insert into credentials (userId, password, status) values ('mjordan', 'mj123', 'active');
+insert into credentials (userId, password, status) values ('lneson', 'ln123', 'active');
 
 insert into team (userId, name) values ('amirza', 'Asim Asad Mirza');
-insert into team (userId, name) values ('malsomali', 'Mohammad Alsomali');
-insert into team (userId, name) values ('aalhammad', 'Ahmed Alhammad');
-insert into team (userId, name) values ('nalghofaili', 'Najla Alghofaili');
+insert into team (userId, name) values ('kkosner', 'Kevin Kosner');
+insert into team (userId, name) values ('mjordan', 'Micheal Jordan');
+insert into team (userId, name) values ('lneson', 'Liam Neson');
 
 
 
